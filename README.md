@@ -19,7 +19,7 @@ Throughout our experiments, we successfully evaluated our implementations on the
 
 ## Contact
 
-If there are questions regarding these experiments, please send an email to `zhangxin00@stu.pku.edu.cn`.
+If there are questions regarding these experiments, please send an email to `zhangxin00@stu.pku.edu.cn`. The other code of this paper is available upon request.
 
 ## How should I cite this work?
 
