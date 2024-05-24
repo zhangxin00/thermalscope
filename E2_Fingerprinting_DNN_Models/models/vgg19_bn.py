@@ -16,7 +16,7 @@ def main(argv):
 
     test_dir = sys.argv[1]
     
-    batch_size = 32
+    batch_size = 1
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     data_transform = transforms.Compose([
